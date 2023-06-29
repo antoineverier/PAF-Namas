@@ -25,6 +25,8 @@
 		CC34B2102A4B2EE9008FB5B5 /* FirebaseRemoteConfigSwift in Frameworks */ = {isa = PBXBuildFile; productRef = CC34B20F2A4B2EE9008FB5B5 /* FirebaseRemoteConfigSwift */; };
 		CC34B2122A4B2EE9008FB5B5 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = CC34B2112A4B2EE9008FB5B5 /* FirebaseStorage */; };
 		CC34B2142A4B2EE9008FB5B5 /* FirebaseStorageCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = CC34B2132A4B2EE9008FB5B5 /* FirebaseStorageCombine-Community */; };
+		CC34B2172A4C3781008FB5B5 /* PythonKit in Frameworks */ = {isa = PBXBuildFile; productRef = CC34B2162A4C3781008FB5B5 /* PythonKit */; };
+		CC34B2192A4C37D7008FB5B5 /* hello.py in Resources */ = {isa = PBXBuildFile; fileRef = CC34B2182A4C37D7008FB5B5 /* hello.py */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +61,7 @@
 		CC27DF4B2A4A454E0027B212 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		CC27DF4D2A4A455A0027B212 /* DataView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataView.swift; sourceTree = "<group>"; };
 		CC34B2042A4B2D05008FB5B5 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		CC34B2182A4C37D7008FB5B5 /* hello.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = hello.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +72,7 @@
 				CC34B20C2A4B2EE9008FB5B5 /* FirebaseDatabaseSwift in Frameworks */,
 				CC34B2142A4B2EE9008FB5B5 /* FirebaseStorageCombine-Community in Frameworks */,
 				CC34B20A2A4B2EE9008FB5B5 /* FirebaseDatabase in Frameworks */,
+				CC34B2172A4C3781008FB5B5 /* PythonKit in Frameworks */,
 				CC34B2102A4B2EE9008FB5B5 /* FirebaseRemoteConfigSwift in Frameworks */,
 				CC34B2082A4B2EE9008FB5B5 /* FirebaseAnalytics in Frameworks */,
 				CC34B20E2A4B2EE9008FB5B5 /* FirebaseRemoteConfig in Frameworks */,
@@ -96,7 +100,6 @@
 		CC27DF0B2A4A43E20027B212 = {
 			isa = PBXGroup;
 			children = (
-				CC34B2012A4B06F2008FB5B5 /* DataImage */,
 				CC27DF162A4A43E20027B212 /* NamasApp */,
 				CC27DF272A4A43E30027B212 /* NamasAppTests */,
 				CC27DF312A4A43E30027B212 /* NamasAppUITests */,
@@ -125,6 +128,7 @@
 				CC27DF192A4A43E20027B212 /* ContentView.swift */,
 				CC27DF1B2A4A43E30027B212 /* Assets.xcassets */,
 				CC27DF1D2A4A43E30027B212 /* Preview Content */,
+				CC34B2182A4C37D7008FB5B5 /* hello.py */,
 			);
 			path = NamasApp;
 			sourceTree = "<group>";
@@ -154,13 +158,6 @@
 			path = NamasAppUITests;
 			sourceTree = "<group>";
 		};
-		CC34B2012A4B06F2008FB5B5 /* DataImage */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = DataImage;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -185,6 +182,7 @@
 				CC34B20F2A4B2EE9008FB5B5 /* FirebaseRemoteConfigSwift */,
 				CC34B2112A4B2EE9008FB5B5 /* FirebaseStorage */,
 				CC34B2132A4B2EE9008FB5B5 /* FirebaseStorageCombine-Community */,
+				CC34B2162A4C3781008FB5B5 /* PythonKit */,
 			);
 			productName = NamasApp;
 			productReference = CC27DF142A4A43E20027B212 /* NamasApp.app */;
@@ -260,6 +258,7 @@
 			mainGroup = CC27DF0B2A4A43E20027B212;
 			packageReferences = (
 				CC34B2062A4B2EE8008FB5B5 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				CC34B2152A4C3781008FB5B5 /* XCRemoteSwiftPackageReference "PythonKit" */,
 			);
 			productRefGroup = CC27DF152A4A43E20027B212 /* Products */;
 			projectDirPath = "";
@@ -280,6 +279,7 @@
 				CC27DF1F2A4A43E30027B212 /* Preview Assets.xcassets in Resources */,
 				CC27DF1C2A4A43E30027B212 /* Assets.xcassets in Resources */,
 				CC34B2052A4B2D05008FB5B5 /* GoogleService-Info.plist in Resources */,
+				CC34B2192A4C37D7008FB5B5 /* hello.py in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -647,6 +647,14 @@
 				minimumVersion = 10.0.0;
 			};
 		};
+		CC34B2152A4C3781008FB5B5 /* XCRemoteSwiftPackageReference "PythonKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/pvieito/PythonKit.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -684,6 +692,11 @@
 			isa = XCSwiftPackageProductDependency;
 			package = CC34B2062A4B2EE8008FB5B5 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = "FirebaseStorageCombine-Community";
+		};
+		CC34B2162A4C3781008FB5B5 /* PythonKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CC34B2152A4C3781008FB5B5 /* XCRemoteSwiftPackageReference "PythonKit" */;
+			productName = PythonKit;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

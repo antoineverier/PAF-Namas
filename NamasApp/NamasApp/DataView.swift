@@ -13,7 +13,7 @@ struct DataView: View {
             List(Data.list, id:\.id){
                 data in DataItemView(data: data)
             }.listStyle(PlainListStyle()).navigationTitle("Photos des patients")
-                .background(Color.white)
+                .background(Color.black)
                 .foregroundColor(Color.indigo)
         }
     }

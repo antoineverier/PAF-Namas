@@ -10,11 +10,12 @@ import SwiftUI
 struct ContentView: View {
     
     var data : Data
-    
     @State private var add = false
+    @State private var username = ""
     var body: some View {
         NavigationView{
             VStack {
+                Text("Bienvenue Docteur !").font(.largeTitle).foregroundColor(Color.purple).multilineTextAlignment(.center).padding()
                 Image("LogoNAMAS")
                     .resizable()
                     .padding(.leading, 0.0)
@@ -29,13 +30,13 @@ struct ContentView: View {
                             }
                         )
                     }).buttonStyle(GradientBackgroundStyle())
-                
+                    
                 NavigationLink(
                     destination: DataView(),
                     label: {
                         Label (
-                            title: { Text("Consulter un médecin").fontWeight(.semibold).font(.title)               },
-                            icon: {Image(systemName: "pills.fill").font(.title)
+                            title: { Text("Consulter les images").fontWeight(.semibold).font(.title)               },
+                            icon: {Image(systemName: "photo").font(.title)
                             }
                         )
                     }).buttonStyle(GradientBackgroundStyle())
@@ -44,8 +45,8 @@ struct ContentView: View {
                     destination: DataView(),
                     label: {
                         Label (
-                            title: { Text("Consulter les images").fontWeight(.semibold).font(.title)               },
-                            icon: {Image(systemName: "photo").font(.title)
+                            title: { Text("Contacter un collègue").fontWeight(.semibold).font(.title)               },
+                            icon: {Image(systemName: "phone").font(.title)
                             }
                         )
                     }).buttonStyle(GradientBackgroundStyle())

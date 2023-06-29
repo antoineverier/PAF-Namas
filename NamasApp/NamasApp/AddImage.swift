@@ -8,6 +8,7 @@
 import SwiftUI
 import AVFoundation
 import Photos
+import PythonKit
 
 struct AddImage: View {
     
@@ -19,11 +20,35 @@ struct AddImage: View {
     var body: some View {
         VStack {
             if let imagetaken = capturedImage {
-                Image(uiImage: imagetaken)
-                    .resizable()
-                    .aspectRatio(contentMode: .fit)
-                    .padding()
-                
+                VStack {
+                    HStack{
+                        Image(uiImage: imagetaken)
+                            .resizable()
+                            .padding()
+                        .frame(width: 189, height: 237)
+                        Image(uiImage: imagetaken)
+                            .resizable()
+                            .padding()
+                            .frame(width: 189, height: 237)
+                            .grayscale(/*@START_MENU_TOKEN@*/1.0/*@END_MENU_TOKEN@*/)
+                    }
+                    
+                    HStack {
+                        Image(uiImage: imagetaken)
+                            .resizable()
+                            .padding()
+                            .frame(width: 189, height: 237)
+                            .contrast(3.0)
+                        
+                        Image(uiImage: imagetaken)
+                            .resizable()
+                            .padding()
+                            .frame(width: 189, height: 237)
+                            .grayscale(/*@START_MENU_TOKEN@*/1.0/*@END_MENU_TOKEN@*/)
+                            .contrast(3.0)
+                    }
+                }
+                    
 
                 TextField("Date format ANNÉE-MOIS-JOUR", text: $date2)
                 TextField("Name", text: $nameUser )
@@ -120,3 +145,5 @@ struct ImagePickerView_Previews: PreviewProvider {
         AddImage()
     }
 }
+
+
