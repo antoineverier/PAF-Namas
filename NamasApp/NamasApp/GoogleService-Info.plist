@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>926583386039-rjhojo52btf63k61e40bbkkiqasbui7b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.926583386039-rjhojo52btf63k61e40bbkkiqasbui7b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA-rkOrNaVfVv33Ir5MazIqkTiE9xmLbLU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>926583386039</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>application.NamasApp</string>
+	<key>PROJECT_ID</key>
+	<string>namas-65e49</string>
+	<key>STORAGE_BUCKET</key>
+	<string>namas-65e49.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:926583386039:ios:34c975d5b2915547f78232</string>
+</dict>
+</plist>

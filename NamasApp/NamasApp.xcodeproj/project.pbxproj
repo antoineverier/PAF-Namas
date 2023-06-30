@@ -1,0 +1,704 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CC27DF182A4A43E20027B212 /* NamasAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC27DF172A4A43E20027B212 /* NamasAppApp.swift */; };
+		CC27DF1A2A4A43E20027B212 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC27DF192A4A43E20027B212 /* ContentView.swift */; };
+		CC27DF1C2A4A43E30027B212 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC27DF1B2A4A43E30027B212 /* Assets.xcassets */; };
+		CC27DF1F2A4A43E30027B212 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC27DF1E2A4A43E30027B212 /* Preview Assets.xcassets */; };
+		CC27DF292A4A43E30027B212 /* NamasAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC27DF282A4A43E30027B212 /* NamasAppTests.swift */; };
+		CC27DF332A4A43E30027B212 /* NamasAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC27DF322A4A43E30027B212 /* NamasAppUITests.swift */; };
+		CC27DF352A4A43E30027B212 /* NamasAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC27DF342A4A43E30027B212 /* NamasAppUITestsLaunchTests.swift */; };
+		CC27DF4A2A4A45330027B212 /* AddImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC27DF492A4A45320027B212 /* AddImage.swift */; };
+		CC27DF4C2A4A454E0027B212 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC27DF4B2A4A454E0027B212 /* Data.swift */; };
+		CC27DF4E2A4A455A0027B212 /* DataView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC27DF4D2A4A455A0027B212 /* DataView.swift */; };
+		CC34B2052A4B2D05008FB5B5 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = CC34B2042A4B2D05008FB5B5 /* GoogleService-Info.plist */; };
+		CC34B2082A4B2EE9008FB5B5 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = CC34B2072A4B2EE9008FB5B5 /* FirebaseAnalytics */; };
+		CC34B20A2A4B2EE9008FB5B5 /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = CC34B2092A4B2EE9008FB5B5 /* FirebaseDatabase */; };
+		CC34B20C2A4B2EE9008FB5B5 /* FirebaseDatabaseSwift in Frameworks */ = {isa = PBXBuildFile; productRef = CC34B20B2A4B2EE9008FB5B5 /* FirebaseDatabaseSwift */; };
+		CC34B20E2A4B2EE9008FB5B5 /* FirebaseRemoteConfig in Frameworks */ = {isa = PBXBuildFile; productRef = CC34B20D2A4B2EE9008FB5B5 /* FirebaseRemoteConfig */; };
+		CC34B2102A4B2EE9008FB5B5 /* FirebaseRemoteConfigSwift in Frameworks */ = {isa = PBXBuildFile; productRef = CC34B20F2A4B2EE9008FB5B5 /* FirebaseRemoteConfigSwift */; };
+		CC34B2122A4B2EE9008FB5B5 /* FirebaseStorage in Frameworks */ = {isa = PBXBuildFile; productRef = CC34B2112A4B2EE9008FB5B5 /* FirebaseStorage */; };
+		CC34B2142A4B2EE9008FB5B5 /* FirebaseStorageCombine-Community in Frameworks */ = {isa = PBXBuildFile; productRef = CC34B2132A4B2EE9008FB5B5 /* FirebaseStorageCombine-Community */; };
+		CC34B2172A4C3781008FB5B5 /* PythonKit in Frameworks */ = {isa = PBXBuildFile; productRef = CC34B2162A4C3781008FB5B5 /* PythonKit */; };
+		CC34B2192A4C37D7008FB5B5 /* hello.py in Resources */ = {isa = PBXBuildFile; fileRef = CC34B2182A4C37D7008FB5B5 /* hello.py */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		CC27DF252A4A43E30027B212 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CC27DF0C2A4A43E20027B212 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CC27DF132A4A43E20027B212;
+			remoteInfo = NamasApp;
+		};
+		CC27DF2F2A4A43E30027B212 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = CC27DF0C2A4A43E20027B212 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CC27DF132A4A43E20027B212;
+			remoteInfo = NamasApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		CC27DF142A4A43E20027B212 /* NamasApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NamasApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC27DF172A4A43E20027B212 /* NamasAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NamasAppApp.swift; sourceTree = "<group>"; };
+		CC27DF192A4A43E20027B212 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		CC27DF1B2A4A43E30027B212 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CC27DF1E2A4A43E30027B212 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CC27DF242A4A43E30027B212 /* NamasAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NamasAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC27DF282A4A43E30027B212 /* NamasAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NamasAppTests.swift; sourceTree = "<group>"; };
+		CC27DF2E2A4A43E30027B212 /* NamasAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NamasAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC27DF322A4A43E30027B212 /* NamasAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NamasAppUITests.swift; sourceTree = "<group>"; };
+		CC27DF342A4A43E30027B212 /* NamasAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NamasAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CC27DF492A4A45320027B212 /* AddImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddImage.swift; sourceTree = "<group>"; };
+		CC27DF4B2A4A454E0027B212 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		CC27DF4D2A4A455A0027B212 /* DataView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataView.swift; sourceTree = "<group>"; };
+		CC34B2042A4B2D05008FB5B5 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		CC34B2182A4C37D7008FB5B5 /* hello.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = hello.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CC27DF112A4A43E20027B212 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CC34B20C2A4B2EE9008FB5B5 /* FirebaseDatabaseSwift in Frameworks */,
+				CC34B2142A4B2EE9008FB5B5 /* FirebaseStorageCombine-Community in Frameworks */,
+				CC34B20A2A4B2EE9008FB5B5 /* FirebaseDatabase in Frameworks */,
+				CC34B2172A4C3781008FB5B5 /* PythonKit in Frameworks */,
+				CC34B2102A4B2EE9008FB5B5 /* FirebaseRemoteConfigSwift in Frameworks */,
+				CC34B2082A4B2EE9008FB5B5 /* FirebaseAnalytics in Frameworks */,
+				CC34B20E2A4B2EE9008FB5B5 /* FirebaseRemoteConfig in Frameworks */,
+				CC34B2122A4B2EE9008FB5B5 /* FirebaseStorage in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC27DF212A4A43E30027B212 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC27DF2B2A4A43E30027B212 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CC27DF0B2A4A43E20027B212 = {
+			isa = PBXGroup;
+			children = (
+				CC27DF162A4A43E20027B212 /* NamasApp */,
+				CC27DF272A4A43E30027B212 /* NamasAppTests */,
+				CC27DF312A4A43E30027B212 /* NamasAppUITests */,
+				CC27DF152A4A43E20027B212 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CC27DF152A4A43E20027B212 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CC27DF142A4A43E20027B212 /* NamasApp.app */,
+				CC27DF242A4A43E30027B212 /* NamasAppTests.xctest */,
+				CC27DF2E2A4A43E30027B212 /* NamasAppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CC27DF162A4A43E20027B212 /* NamasApp */ = {
+			isa = PBXGroup;
+			children = (
+				CC34B2042A4B2D05008FB5B5 /* GoogleService-Info.plist */,
+				CC27DF172A4A43E20027B212 /* NamasAppApp.swift */,
+				CC27DF4B2A4A454E0027B212 /* Data.swift */,
+				CC27DF4D2A4A455A0027B212 /* DataView.swift */,
+				CC27DF492A4A45320027B212 /* AddImage.swift */,
+				CC27DF192A4A43E20027B212 /* ContentView.swift */,
+				CC27DF1B2A4A43E30027B212 /* Assets.xcassets */,
+				CC27DF1D2A4A43E30027B212 /* Preview Content */,
+				CC34B2182A4C37D7008FB5B5 /* hello.py */,
+			);
+			path = NamasApp;
+			sourceTree = "<group>";
+		};
+		CC27DF1D2A4A43E30027B212 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				CC27DF1E2A4A43E30027B212 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CC27DF272A4A43E30027B212 /* NamasAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				CC27DF282A4A43E30027B212 /* NamasAppTests.swift */,
+			);
+			path = NamasAppTests;
+			sourceTree = "<group>";
+		};
+		CC27DF312A4A43E30027B212 /* NamasAppUITests */ = {
+			isa = PBXGroup;
+			children = (
+				CC27DF322A4A43E30027B212 /* NamasAppUITests.swift */,
+				CC27DF342A4A43E30027B212 /* NamasAppUITestsLaunchTests.swift */,
+			);
+			path = NamasAppUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CC27DF132A4A43E20027B212 /* NamasApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CC27DF382A4A43E30027B212 /* Build configuration list for PBXNativeTarget "NamasApp" */;
+			buildPhases = (
+				CC27DF102A4A43E20027B212 /* Sources */,
+				CC27DF112A4A43E20027B212 /* Frameworks */,
+				CC27DF122A4A43E20027B212 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = NamasApp;
+			packageProductDependencies = (
+				CC34B2072A4B2EE9008FB5B5 /* FirebaseAnalytics */,
+				CC34B2092A4B2EE9008FB5B5 /* FirebaseDatabase */,
+				CC34B20B2A4B2EE9008FB5B5 /* FirebaseDatabaseSwift */,
+				CC34B20D2A4B2EE9008FB5B5 /* FirebaseRemoteConfig */,
+				CC34B20F2A4B2EE9008FB5B5 /* FirebaseRemoteConfigSwift */,
+				CC34B2112A4B2EE9008FB5B5 /* FirebaseStorage */,
+				CC34B2132A4B2EE9008FB5B5 /* FirebaseStorageCombine-Community */,
+				CC34B2162A4C3781008FB5B5 /* PythonKit */,
+			);
+			productName = NamasApp;
+			productReference = CC27DF142A4A43E20027B212 /* NamasApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		CC27DF232A4A43E30027B212 /* NamasAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CC27DF3B2A4A43E30027B212 /* Build configuration list for PBXNativeTarget "NamasAppTests" */;
+			buildPhases = (
+				CC27DF202A4A43E30027B212 /* Sources */,
+				CC27DF212A4A43E30027B212 /* Frameworks */,
+				CC27DF222A4A43E30027B212 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CC27DF262A4A43E30027B212 /* PBXTargetDependency */,
+			);
+			name = NamasAppTests;
+			productName = NamasAppTests;
+			productReference = CC27DF242A4A43E30027B212 /* NamasAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		CC27DF2D2A4A43E30027B212 /* NamasAppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CC27DF3E2A4A43E30027B212 /* Build configuration list for PBXNativeTarget "NamasAppUITests" */;
+			buildPhases = (
+				CC27DF2A2A4A43E30027B212 /* Sources */,
+				CC27DF2B2A4A43E30027B212 /* Frameworks */,
+				CC27DF2C2A4A43E30027B212 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CC27DF302A4A43E30027B212 /* PBXTargetDependency */,
+			);
+			name = NamasAppUITests;
+			productName = NamasAppUITests;
+			productReference = CC27DF2E2A4A43E30027B212 /* NamasAppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CC27DF0C2A4A43E20027B212 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					CC27DF132A4A43E20027B212 = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+					CC27DF232A4A43E30027B212 = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = CC27DF132A4A43E20027B212;
+					};
+					CC27DF2D2A4A43E30027B212 = {
+						CreatedOnToolsVersion = 14.3.1;
+						TestTargetID = CC27DF132A4A43E20027B212;
+					};
+				};
+			};
+			buildConfigurationList = CC27DF0F2A4A43E20027B212 /* Build configuration list for PBXProject "NamasApp" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CC27DF0B2A4A43E20027B212;
+			packageReferences = (
+				CC34B2062A4B2EE8008FB5B5 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				CC34B2152A4C3781008FB5B5 /* XCRemoteSwiftPackageReference "PythonKit" */,
+			);
+			productRefGroup = CC27DF152A4A43E20027B212 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CC27DF132A4A43E20027B212 /* NamasApp */,
+				CC27DF232A4A43E30027B212 /* NamasAppTests */,
+				CC27DF2D2A4A43E30027B212 /* NamasAppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CC27DF122A4A43E20027B212 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CC27DF1F2A4A43E30027B212 /* Preview Assets.xcassets in Resources */,
+				CC27DF1C2A4A43E30027B212 /* Assets.xcassets in Resources */,
+				CC34B2052A4B2D05008FB5B5 /* GoogleService-Info.plist in Resources */,
+				CC34B2192A4C37D7008FB5B5 /* hello.py in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC27DF222A4A43E30027B212 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC27DF2C2A4A43E30027B212 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CC27DF102A4A43E20027B212 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CC27DF4E2A4A455A0027B212 /* DataView.swift in Sources */,
+				CC27DF1A2A4A43E20027B212 /* ContentView.swift in Sources */,
+				CC27DF4C2A4A454E0027B212 /* Data.swift in Sources */,
+				CC27DF4A2A4A45330027B212 /* AddImage.swift in Sources */,
+				CC27DF182A4A43E20027B212 /* NamasAppApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC27DF202A4A43E30027B212 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CC27DF292A4A43E30027B212 /* NamasAppTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CC27DF2A2A4A43E30027B212 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CC27DF352A4A43E30027B212 /* NamasAppUITestsLaunchTests.swift in Sources */,
+				CC27DF332A4A43E30027B212 /* NamasAppUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		CC27DF262A4A43E30027B212 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CC27DF132A4A43E20027B212 /* NamasApp */;
+			targetProxy = CC27DF252A4A43E30027B212 /* PBXContainerItemProxy */;
+		};
+		CC27DF302A4A43E30027B212 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CC27DF132A4A43E20027B212 /* NamasApp */;
+			targetProxy = CC27DF2F2A4A43E30027B212 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		CC27DF362A4A43E30027B212 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CC27DF372A4A43E30027B212 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CC27DF392A4A43E30027B212 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"NamasApp/Preview Content\"";
+				DEVELOPMENT_TEAM = 3RXDYBQ397;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "On doit accéder à ta caméra stp";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "On doit accéder à tes photos !";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Ajout à ta bibliothèque";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = application.NamasApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CC27DF3A2A4A43E30027B212 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"NamasApp/Preview Content\"";
+				DEVELOPMENT_TEAM = 3RXDYBQ397;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "On doit accéder à ta caméra stp";
+				INFOPLIST_KEY_NSPhotoLibraryAddUsageDescription = "On doit accéder à tes photos !";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Ajout à ta bibliothèque";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = application.NamasApp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		CC27DF3C2A4A43E30027B212 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = application.NamasAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NamasApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/NamasApp";
+			};
+			name = Debug;
+		};
+		CC27DF3D2A4A43E30027B212 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = application.NamasAppTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NamasApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/NamasApp";
+			};
+			name = Release;
+		};
+		CC27DF3F2A4A43E30027B212 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = application.NamasAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = NamasApp;
+			};
+			name = Debug;
+		};
+		CC27DF402A4A43E30027B212 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = application.NamasAppUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = NamasApp;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CC27DF0F2A4A43E20027B212 /* Build configuration list for PBXProject "NamasApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CC27DF362A4A43E30027B212 /* Debug */,
+				CC27DF372A4A43E30027B212 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CC27DF382A4A43E30027B212 /* Build configuration list for PBXNativeTarget "NamasApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CC27DF392A4A43E30027B212 /* Debug */,
+				CC27DF3A2A4A43E30027B212 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CC27DF3B2A4A43E30027B212 /* Build configuration list for PBXNativeTarget "NamasAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CC27DF3C2A4A43E30027B212 /* Debug */,
+				CC27DF3D2A4A43E30027B212 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CC27DF3E2A4A43E30027B212 /* Build configuration list for PBXNativeTarget "NamasAppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CC27DF3F2A4A43E30027B212 /* Debug */,
+				CC27DF402A4A43E30027B212 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		CC34B2062A4B2EE8008FB5B5 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 10.0.0;
+			};
+		};
+		CC34B2152A4C3781008FB5B5 /* XCRemoteSwiftPackageReference "PythonKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/pvieito/PythonKit.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		CC34B2072A4B2EE9008FB5B5 /* FirebaseAnalytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CC34B2062A4B2EE8008FB5B5 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalytics;
+		};
+		CC34B2092A4B2EE9008FB5B5 /* FirebaseDatabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CC34B2062A4B2EE8008FB5B5 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseDatabase;
+		};
+		CC34B20B2A4B2EE9008FB5B5 /* FirebaseDatabaseSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CC34B2062A4B2EE8008FB5B5 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseDatabaseSwift;
+		};
+		CC34B20D2A4B2EE9008FB5B5 /* FirebaseRemoteConfig */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CC34B2062A4B2EE8008FB5B5 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseRemoteConfig;
+		};
+		CC34B20F2A4B2EE9008FB5B5 /* FirebaseRemoteConfigSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CC34B2062A4B2EE8008FB5B5 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseRemoteConfigSwift;
+		};
+		CC34B2112A4B2EE9008FB5B5 /* FirebaseStorage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CC34B2062A4B2EE8008FB5B5 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseStorage;
+		};
+		CC34B2132A4B2EE9008FB5B5 /* FirebaseStorageCombine-Community */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CC34B2062A4B2EE8008FB5B5 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = "FirebaseStorageCombine-Community";
+		};
+		CC34B2162A4C3781008FB5B5 /* PythonKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CC34B2152A4C3781008FB5B5 /* XCRemoteSwiftPackageReference "PythonKit" */;
+			productName = PythonKit;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = CC27DF0C2A4A43E20027B212 /* Project object */;
+}
