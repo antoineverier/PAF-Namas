@@ -1,0 +1,251 @@
+isic_id,attribution,copyright_license,age_approx,anatom_site_general,benign_malignant,diagnosis,diagnosis_confirm_type,image_type,melanocytic,sex
+ISIC_0034524,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,posterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0034525,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,anterior torso,benign,nevus,histopathology,dermoscopic,True,male
+ISIC_0034527,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,,benign,nevus,histopathology,dermoscopic,True,male
+ISIC_0034528,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0034529,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,malignant,melanoma,histopathology,dermoscopic,True,
+ISIC_0034530,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0034532,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,upper extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0034533,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,anterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0034534,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0034537,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,anterior torso,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0034540,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,benign,nevus,single image expert consensus,dermoscopic,True,
+ISIC_0034541,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0034543,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0034544,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,20,anterior torso,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0034548,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,head/neck,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034551,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,upper extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0034552,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,posterior torso,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0034553,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,anterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0034556,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,posterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0034557,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0034558,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,anterior torso,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0034559,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,posterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0034560,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0034562,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0034563,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,posterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0034564,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,anterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0034566,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0034567,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,posterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0034568,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,upper extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0034569,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,benign,nevus,histopathology,dermoscopic,True,
+ISIC_0034572,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,anterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034573,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,malignant,melanoma,histopathology,dermoscopic,True,
+ISIC_0034576,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0034577,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,lower extremity,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0034580,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,25,,benign,nevus,single image expert consensus,dermoscopic,True,
+ISIC_0034581,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0034584,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034595,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0034605,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034628,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034630,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0034633,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034638,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,head/neck,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0034644,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,anterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034650,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,malignant,melanoma,histopathology,dermoscopic,True,
+ISIC_0034655,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034657,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034687,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0034713,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034714,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034737,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034764,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,85,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034771,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0034784,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034804,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,anterior torso,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0034817,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,malignant,melanoma,histopathology,dermoscopic,True,
+ISIC_0034819,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,malignant,melanoma,histopathology,dermoscopic,True,
+ISIC_0034859,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,head/neck,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0034863,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034871,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034873,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0034874,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,head/neck,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0034875,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034882,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0034895,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034904,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,anterior torso,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0034918,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034926,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,85,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0034934,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,head/neck,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034947,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0034949,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,malignant,melanoma,histopathology,dermoscopic,True,
+ISIC_0034950,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0034955,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,benign,nevus,histopathology,dermoscopic,True,
+ISIC_0034956,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0034957,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034958,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034959,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,malignant,melanoma,histopathology,dermoscopic,True,
+ISIC_0034962,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,30,upper extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0034964,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,posterior torso,benign,nevus,single image expert consensus,dermoscopic,True,male
+ISIC_0034965,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,posterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0034971,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034988,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0034998,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,head/neck,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035000,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035013,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035014,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035015,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,upper extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035016,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,upper extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035017,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,posterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035019,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035020,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,posterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035021,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035022,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035023,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,upper extremity,benign,nevus,histopathology,dermoscopic,True,male
+ISIC_0035024,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035025,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035027,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035030,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,posterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035031,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,80,,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035034,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035036,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035038,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,25,upper extremity,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0035044,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,10,head/neck,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0035045,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,anterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035046,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,upper extremity,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0035047,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035048,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,head/neck,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035049,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035050,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,posterior torso,benign,nevus,histopathology,dermoscopic,True,male
+ISIC_0035051,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,anterior torso,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0035052,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,upper extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035053,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,posterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035055,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,benign,nevus,single image expert consensus,dermoscopic,True,
+ISIC_0035056,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,anterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035058,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,benign,nevus,single image expert consensus,dermoscopic,True,
+ISIC_0035059,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,posterior torso,benign,nevus,histopathology,dermoscopic,True,male
+ISIC_0035060,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,posterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035061,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,80,,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035062,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035070,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035081,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,head/neck,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035089,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035090,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035099,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035124,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035130,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035139,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,anterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035177,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,malignant,melanoma,histopathology,dermoscopic,True,
+ISIC_0035196,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,malignant,melanoma,histopathology,dermoscopic,True,
+ISIC_0035207,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,head/neck,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035216,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,head/neck,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035224,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035229,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035232,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,80,anterior torso,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035240,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,head/neck,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035248,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,head/neck,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035263,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,malignant,melanoma,histopathology,dermoscopic,True,
+ISIC_0035271,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035280,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035306,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,85,anterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035313,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,anterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035326,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,head/neck,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035345,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035351,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,head/neck,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035362,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,head/neck,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035366,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035393,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,80,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035397,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,80,head/neck,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035406,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035414,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035420,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035430,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035434,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,malignant,melanoma,histopathology,dermoscopic,True,
+ISIC_0035459,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035460,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035462,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035478,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,85,anterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035486,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,anterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035505,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,85,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035510,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,malignant,melanoma,histopathology,dermoscopic,True,
+ISIC_0035513,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035515,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,20,anterior torso,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0035516,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,25,lower extremity,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0035518,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,30,upper extremity,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0035519,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035520,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,5,head/neck,benign,nevus,single image expert consensus,dermoscopic,True,female
+ISIC_0035521,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,20,posterior torso,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0035522,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035523,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035524,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,posterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035525,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035526,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035527,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,30,upper extremity,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0035528,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,lower extremity,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0035529,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,anterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035530,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035531,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035532,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035534,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035535,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,benign,nevus,single image expert consensus,dermoscopic,True,
+ISIC_0035536,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,upper extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035537,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,anterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035539,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035540,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035541,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035542,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035543,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,posterior torso,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0035544,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035545,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,upper extremity,benign,nevus,histopathology,dermoscopic,True,male
+ISIC_0035546,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035548,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,30,,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035550,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,80,head/neck,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035551,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,25,anterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035554,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,upper extremity,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0035555,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,posterior torso,benign,nevus,histopathology,dermoscopic,True,male
+ISIC_0035557,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,benign,nevus,histopathology,dermoscopic,True,
+ISIC_0035558,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,malignant,melanoma,histopathology,dermoscopic,True,
+ISIC_0035559,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035560,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035561,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,head/neck,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035562,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035563,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,upper extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035565,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035566,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035567,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035568,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,upper extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035569,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,40,,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035571,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,lower extremity,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0035572,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035573,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,upper extremity,benign,nevus,single image expert consensus,dermoscopic,True,female
+ISIC_0035574,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,benign,nevus,single image expert consensus,dermoscopic,True,
+ISIC_0035575,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,20,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035576,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,25,lower extremity,benign,nevus,serial imaging showing no change,dermoscopic,True,female
+ISIC_0035577,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,50,anterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035578,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,anterior torso,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035579,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,posterior torso,benign,nevus,single image expert consensus,dermoscopic,True,male
+ISIC_0035580,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,,benign,nevus,serial imaging showing no change,dermoscopic,True,male
+ISIC_0035581,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,30,posterior torso,benign,nevus,histopathology,dermoscopic,True,male
+ISIC_0035582,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,posterior torso,benign,nevus,histopathology,dermoscopic,True,female
+ISIC_0035583,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,25,anterior torso,benign,nevus,histopathology,dermoscopic,True,male
+ISIC_0035602,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,head/neck,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035605,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035606,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,head/neck,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035610,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,malignant,melanoma,histopathology,dermoscopic,True,
+ISIC_0035629,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035636,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,35,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035637,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035640,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035651,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035653,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035663,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035670,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,malignant,melanoma,histopathology,dermoscopic,True,
+ISIC_0035680,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035682,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035690,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035696,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,head/neck,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035698,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035700,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,,,malignant,melanoma,histopathology,dermoscopic,True,
+ISIC_0035705,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035708,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035711,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,55,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035714,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,65,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035719,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,60,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035720,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,75,,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035721,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,80,anterior torso,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035732,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,45,posterior torso,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035736,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,,malignant,melanoma,histopathology,dermoscopic,True,
+ISIC_0035747,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,25,upper extremity,malignant,melanoma,histopathology,dermoscopic,True,female
+ISIC_0035748,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,lower extremity,malignant,melanoma,histopathology,dermoscopic,True,male
+ISIC_0035756,"ViDIR Group, Department of Dermatology, Medical University of Vienna",CC-BY-NC,70,,malignant,melanoma,histopathology,dermoscopic,True,male
